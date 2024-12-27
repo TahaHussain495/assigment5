@@ -1,0 +1,114 @@
+* {
+    background: #f5e8a8;
+}
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+.navdiv {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.container li {
+    display: inline-block;
+    margin: 10px;
+    margin-left: 70px;
+}
+.container li a {
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+}
+.container button {
+    margin: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background: linear-gradient(#FFE259,#FFA751);
+}
+.container i {
+    margin: 10px;
+}
+.nopes {
+    padding-top: 10px;
+    padding-left: 6px;
+    padding-right: 40px;
+}
+.nopes>div {
+    width: 100%;
+    height: 570px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.area>h2 {
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    line-height: 60px;
+    padding: 5%;
+}
+.area>p {
+    font-size: 20px;
+    padding: 5%;
+    
+}
+.area>button {
+    background: linear-gradient(#FF4E50,#F9D423);
+    width: 130px;
+    height: 35px;
+    border-radius: 20px;
+    margin-left: 25px;
+    border: none;
+    color: white;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
